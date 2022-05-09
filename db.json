@@ -1,0 +1,584 @@
+{
+    "standings": [{
+            "teamId": "a3nyxabgsqlnqfkeg41m6tnpp",
+            "teamCrest": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_a3nyxabgsqlnqfkeg41m6tnpp.png",
+            "teamUrl": "/en/team/manchester-city/a3nyxabgsqlnqfkeg41m6tnpp",
+            "teamName": "Manchester City",
+            "teamCode": "MCI",
+            "matchesPlayed": 34,
+            "matchesWon_Lost_Dawn": "26/3/5",
+            "goalsFor_Against": "84/21",
+            "goalDifference": "+63",
+            "rank": 1,
+            "points": 83,
+            "lastForm": [{
+                    "result": "W"
+                },
+                {
+                    "result": "W"
+                },
+                {
+                    "result": "W"
+                },
+                {
+                    "result": "D"
+                },
+                {
+                    "result": "W"
+                }
+            ]
+        },
+        {
+            "teamId": "c8h9bw1l82s06h77xxrelzhur",
+            "teamCrest": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_c8h9bw1l82s06h77xxrelzhur.png",
+            "teamUrl": "/en/team/liverpool/c8h9bw1l82s06h77xxrelzhur",
+            "teamName": "Liverpool",
+            "teamCode": "LIV",
+            "matchesPlayed": 34,
+            "matchesWon_Lost_Dawn": "25/2/7",
+            "goalsFor_Against": "86/22",
+            "goalDifference": "+64",
+            "rank": 2,
+            "points": 82,
+            "lastForm": [{
+                    "result": "W"
+                },
+                {
+                    "result": "W"
+                },
+                {
+                    "result": "W"
+                },
+                {
+                    "result": "D"
+                },
+                {
+                    "result": "W"
+                }
+            ]
+        },
+        {
+            "teamId": "9q0arba2kbnywth8bkxlhgmdr",
+            "teamCrest": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_9q0arba2kbnywth8bkxlhgmdr.png",
+            "teamUrl": "/en/team/chelsea/9q0arba2kbnywth8bkxlhgmdr",
+            "teamName": "Chelsea",
+            "teamCode": "CHE",
+            "matchesPlayed": 34,
+            "matchesWon_Lost_Dawn": "19/6/9",
+            "goalsFor_Against": "68/29",
+            "goalDifference": "+39",
+            "rank": 3,
+            "points": 66,
+            "lastForm": [{
+                    "result": "L"
+                },
+                {
+                    "result": "D"
+                },
+                {
+                    "result": "W"
+                },
+                {
+                    "result": "L"
+                },
+                {
+                    "result": "W"
+                }
+            ]
+        },
+        {
+            "teamId": "4dsgumo7d4zupm2ugsvm4zm4d",
+            "teamCrest": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4dsgumo7d4zupm2ugsvm4zm4d.png",
+            "teamUrl": "/en/team/arsenal/4dsgumo7d4zupm2ugsvm4zm4d",
+            "teamName": "Arsenal",
+            "teamCode": "ARS",
+            "matchesPlayed": 34,
+            "matchesWon_Lost_Dawn": "20/11/3",
+            "goalsFor_Against": "54/41",
+            "goalDifference": "+13",
+            "rank": 4,
+            "points": 63,
+            "lastForm": [{
+                    "result": "W"
+                },
+                {
+                    "result": "W"
+                },
+                {
+                    "result": "W"
+                },
+                {
+                    "result": "L"
+                },
+                {
+                    "result": "L"
+                }
+            ]
+        },
+        {
+            "teamId": "22doj4sgsocqpxw45h607udje",
+            "teamCrest": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_22doj4sgsocqpxw45h607udje.png",
+            "teamUrl": "/en/team/tottenham-hotspur/22doj4sgsocqpxw45h607udje",
+            "teamName": "Tottenham Hotspur",
+            "teamCode": "TOT",
+            "matchesPlayed": 34,
+            "matchesWon_Lost_Dawn": "19/11/4",
+            "goalsFor_Against": "59/39",
+            "goalDifference": "+20",
+            "rank": 5,
+            "points": 61,
+            "lastForm": [{
+                    "result": "W"
+                },
+                {
+                    "result": "D"
+                },
+                {
+                    "result": "L"
+                },
+                {
+                    "result": "W"
+                },
+                {
+                    "result": "W"
+                }
+            ]
+        },
+        {
+            "teamId": "6eqit8ye8aomdsrrq0hk3v7gh",
+            "teamCrest": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_6eqit8ye8aomdsrrq0hk3v7gh.png",
+            "teamUrl": "/en/team/manchester-united/6eqit8ye8aomdsrrq0hk3v7gh",
+            "teamName": "Manchester United",
+            "teamCode": "MUN",
+            "matchesPlayed": 36,
+            "matchesWon_Lost_Dawn": "16/10/10",
+            "goalsFor_Against": "57/52",
+            "goalDifference": "+5",
+            "rank": 6,
+            "points": 58,
+            "lastForm": [{
+                    "result": "W"
+                },
+                {
+                    "result": "D"
+                },
+                {
+                    "result": "L"
+                },
+                {
+                    "result": "L"
+                },
+                {
+                    "result": "W"
+                }
+            ]
+        },
+        {
+            "teamId": "4txjdaqveermfryvbfrr4taf7",
+            "teamCrest": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4txjdaqveermfryvbfrr4taf7.png",
+            "teamUrl": "/en/team/west-ham-united/4txjdaqveermfryvbfrr4taf7",
+            "teamName": "West Ham United",
+            "teamCode": "WHU",
+            "matchesPlayed": 35,
+            "matchesWon_Lost_Dawn": "15/13/7",
+            "goalsFor_Against": "53/46",
+            "goalDifference": "+7",
+            "rank": 7,
+            "points": 52,
+            "lastForm": [{
+                    "result": "L"
+                },
+                {
+                    "result": "L"
+                },
+                {
+                    "result": "D"
+                },
+                {
+                    "result": "L"
+                },
+                {
+                    "result": "W"
+                }
+            ]
+        },
+        {
+            "teamId": "b9si1jn1lfxfund69e9ogcu2n",
+            "teamCrest": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_b9si1jn1lfxfund69e9ogcu2n.png",
+            "teamUrl": "/en/team/wolverhampton-wanderers/b9si1jn1lfxfund69e9ogcu2n",
+            "teamName": "Wolverhampton Wanderers",
+            "teamCode": "WOL",
+            "matchesPlayed": 34,
+            "matchesWon_Lost_Dawn": "15/15/4",
+            "goalsFor_Against": "33/32",
+            "goalDifference": "+1",
+            "rank": 8,
+            "points": 49,
+            "lastForm": [{
+                    "result": "L"
+                },
+                {
+                    "result": "L"
+                },
+                {
+                    "result": "L"
+                },
+                {
+                    "result": "W"
+                },
+                {
+                    "result": "L"
+                }
+            ]
+        },
+        {
+            "teamId": "e5p0ehyguld7egzhiedpdnc3w",
+            "teamCrest": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_e5p0ehyguld7egzhiedpdnc3w.png",
+            "teamUrl": "/en/team/brighton-hove-albion/e5p0ehyguld7egzhiedpdnc3w",
+            "teamName": "Brighton & Hove Albion",
+            "teamCode": "BHA",
+            "matchesPlayed": 35,
+            "matchesWon_Lost_Dawn": "10/11/14",
+            "goalsFor_Against": "34/42",
+            "goalDifference": "-8",
+            "rank": 9,
+            "points": 44,
+            "lastForm": [{
+                    "result": "W"
+                },
+                {
+                    "result": "D"
+                },
+                {
+                    "result": "L"
+                },
+                {
+                    "result": "W"
+                },
+                {
+                    "result": "W"
+                }
+            ]
+        },
+        {
+            "teamId": "7vn2i2kd35zuetw6b38gw9jsz",
+            "teamCrest": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_7vn2i2kd35zuetw6b38gw9jsz.png",
+            "teamUrl": "/en/team/newcastle-united/7vn2i2kd35zuetw6b38gw9jsz",
+            "teamName": "Newcastle United",
+            "teamCode": "NEW",
+            "matchesPlayed": 35,
+            "matchesWon_Lost_Dawn": "11/14/10",
+            "goalsFor_Against": "40/56",
+            "goalDifference": "-16",
+            "rank": 10,
+            "points": 43,
+            "lastForm": [{
+                    "result": "L"
+                },
+                {
+                    "result": "W"
+                },
+                {
+                    "result": "W"
+                },
+                {
+                    "result": "W"
+                },
+                {
+                    "result": "W"
+                }
+            ]
+        },
+        {
+            "teamId": "avxknfz4f6ob0rv9dbnxdzde0",
+            "teamCrest": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_avxknfz4f6ob0rv9dbnxdzde0.png",
+            "teamUrl": "/en/team/leicester-city/avxknfz4f6ob0rv9dbnxdzde0",
+            "teamName": "Leicester City",
+            "teamCode": "LEI",
+            "matchesPlayed": 33,
+            "matchesWon_Lost_Dawn": "11/13/9",
+            "goalsFor_Against": "48/54",
+            "goalDifference": "-6",
+            "rank": 11,
+            "points": 42,
+            "lastForm": [{
+                    "result": "L"
+                },
+                {
+                    "result": "D"
+                },
+                {
+                    "result": "D"
+                },
+                {
+                    "result": "L"
+                },
+                {
+                    "result": "W"
+                }
+            ]
+        },
+        {
+            "teamId": "1c8m2ko0wxq1asfkuykurdr0y",
+            "teamCrest": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_1c8m2ko0wxq1asfkuykurdr0y.png",
+            "teamUrl": "/en/team/crystal-palace/1c8m2ko0wxq1asfkuykurdr0y",
+            "teamName": "Crystal Palace",
+            "teamCode": "CRY",
+            "matchesPlayed": 34,
+            "matchesWon_Lost_Dawn": "9/11/14",
+            "goalsFor_Against": "45/48",
+            "goalDifference": "+3",
+            "rank": 12,
+            "points": 41,
+            "lastForm": [{
+                    "result": "W"
+                },
+                {
+                    "result": "D"
+                },
+                {
+                    "result": "L"
+                },
+                {
+                    "result": "L"
+                },
+                {
+                    "result": "W"
+                }
+            ]
+        },
+        {
+            "teamId": "b496gs285it6bheuikox6z9mj",
+            "teamCrest": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_b496gs285it6bheuikox6z9mj.png",
+            "teamUrl": "/en/team/aston-villa/b496gs285it6bheuikox6z9mj",
+            "teamName": "Aston Villa",
+            "teamCode": "AVL",
+            "matchesPlayed": 33,
+            "matchesWon_Lost_Dawn": "12/17/4",
+            "goalsFor_Against": "44/46",
+            "goalDifference": "-2",
+            "rank": 13,
+            "points": 40,
+            "lastForm": [{
+                    "result": "W"
+                },
+                {
+                    "result": "D"
+                },
+                {
+                    "result": "L"
+                },
+                {
+                    "result": "L"
+                },
+                {
+                    "result": "L"
+                }
+            ]
+        },
+        {
+            "teamId": "7yx5dqhhphyvfisohikodajhv",
+            "teamCrest": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_7yx5dqhhphyvfisohikodajhv.png",
+            "teamUrl": "/en/team/brentford/7yx5dqhhphyvfisohikodajhv",
+            "teamName": "Brentford",
+            "teamCode": "BRE",
+            "matchesPlayed": 35,
+            "matchesWon_Lost_Dawn": "11/17/7",
+            "goalsFor_Against": "41/52",
+            "goalDifference": "-11",
+            "rank": 14,
+            "points": 40,
+            "lastForm": [{
+                    "result": "L"
+                },
+                {
+                    "result": "D"
+                },
+                {
+                    "result": "W"
+                },
+                {
+                    "result": "W"
+                },
+                {
+                    "result": "W"
+                }
+            ]
+        },
+        {
+            "teamId": "d5ydtvt96bv7fq04yqm2w2632",
+            "teamCrest": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_d5ydtvt96bv7fq04yqm2w2632.png",
+            "teamUrl": "/en/team/southampton/d5ydtvt96bv7fq04yqm2w2632",
+            "teamName": "Southampton",
+            "teamCode": "SOU",
+            "matchesPlayed": 35,
+            "matchesWon_Lost_Dawn": "9/13/13",
+            "goalsFor_Against": "41/58",
+            "goalDifference": "-17",
+            "goalsAgainst": 58,
+            "rank": 15,
+            "points": 40,
+            "lastForm": [{
+                    "result": "L"
+                },
+                {
+                    "result": "D"
+                },
+                {
+                    "result": "L"
+                },
+                {
+                    "result": "W"
+                },
+                {
+                    "result": "L"
+                }
+            ]
+        },
+        {
+            "teamId": "64bxxwu2mv2qqlv0monbkj1om",
+            "teamCrest": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_64bxxwu2mv2qqlv0monbkj1om.png",
+            "teamUrl": "/en/team/burnley/64bxxwu2mv2qqlv0monbkj1om",
+            "teamName": "Burnley",
+            "teamCode": "BRN",
+            "matchesPlayed": 34,
+            "matchesWon_Lost_Dawn": "7/14/13",
+            "goalsFor_Against": "31/46",
+            "goalDifference": "-15",
+            "rank": 16,
+            "points": 34,
+            "lastForm": [{
+                    "result": "W"
+                },
+                {
+                    "result": "W"
+                },
+                {
+                    "result": "W"
+                },
+                {
+                    "result": "D"
+                },
+                {
+                    "result": "L"
+                }
+            ]
+        },
+        {
+            "teamId": "48gk2hpqtsl6p9sx9kjhaydq4",
+            "teamCrest": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_48gk2hpqtsl6p9sx9kjhaydq4.png",
+            "teamUrl": "/en/team/leeds-united/48gk2hpqtsl6p9sx9kjhaydq4",
+            "teamName": "Leeds United",
+            "teamCode": "LEE",
+            "matchesPlayed": 34,
+            "matchesWon_Lost_Dawn": "8/16/10",
+            "goalsFor_Against": "38/72",
+            "goalDifference": "-34",
+            "rank": 17,
+            "points": 34,
+            "lastForm": [{
+                    "result": "L"
+                },
+                {
+                    "result": "D"
+                },
+                {
+                    "result": "W"
+                },
+                {
+                    "result": "D"
+                },
+                {
+                    "result": "W"
+                }
+            ]
+        },
+        {
+            "teamId": "ehd2iemqmschhj2ec0vayztzz",
+            "teamCrest": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_ehd2iemqmschhj2ec0vayztzz.png",
+            "teamUrl": "/en/team/everton/ehd2iemqmschhj2ec0vayztzz",
+            "teamName": "Everton",
+            "teamCode": "EVE",
+            "matchesPlayed": 33,
+            "matchesWon_Lost_Dawn": "9/19/5",
+            "goalsFor_Against": "35/55",
+            "goalDifference": "-20",
+            "rank": 18,
+            "points": 32,
+            "lastForm": [{
+                    "result": "W"
+                },
+                {
+                    "result": "L"
+                },
+                {
+                    "result": "D"
+                },
+                {
+                    "result": "W"
+                },
+                {
+                    "result": "L"
+                }
+            ]
+        },
+        {
+            "teamId": "4t83rqbdbekinxl5fz2ygsyta",
+            "teamCrest": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4t83rqbdbekinxl5fz2ygsyta.png",
+            "teamUrl": "/en/team/watford/4t83rqbdbekinxl5fz2ygsyta",
+            "teamName": "Watford",
+            "teamCode": "WAT",
+            "matchesPlayed": 34,
+            "matchesWon_Lost_Dawn": "6/24/4",
+            "goalsFor_Against": "32/69",
+            "goalDifference": "-37",
+            "rank": 19,
+            "points": 22,
+            "lastForm": [{
+                    "result": "L"
+                },
+                {
+                    "result": "L"
+                },
+                {
+                    "result": "L"
+                },
+                {
+                    "result": "L"
+                },
+                {
+                    "result": "L"
+                }
+            ]
+        },
+        {
+            "teamId": "suz80crpy3anixyzccmu6jzp",
+            "teamCrest": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_suz80crpy3anixyzccmu6jzp.png",
+            "teamUrl": "/en/team/norwich-city/suz80crpy3anixyzccmu6jzp",
+            "teamName": "Norwich City",
+            "teamCode": "NOR",
+            "matchesPlayed": 34,
+            "matchesWon_Lost_Dawn": "5/23/6",
+            "goalsFor_Against": "22/71",
+            "goalDifference": "-49",
+            "rank": 20,
+            "points": 21,
+            "lastForm": [{
+                    "result": "L"
+                },
+                {
+                    "result": "L"
+                },
+                {
+                    "result": "L"
+                },
+                {
+                    "result": "W"
+                },
+                {
+                    "result": "D"
+                }
+            ]
+        }
+    ]
+}
